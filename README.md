@@ -2,5 +2,12 @@
 
 ## Antes de utilizar:
 
-- Rodar npm install
-- Preencher variáveis no arquivo .env
+- Rodar _npm install_
+- Preencher variáveis no arquivo _.env_
+
+--
+
+## Before running:
+
+- Run _npm install_
+- Fill variables in _.env_ file
