@@ -21,6 +21,13 @@ module.exports = {
             client.sendMessage(message.from, text);
         }
     },
+    desgraca: {
+        model: "!desgraca",
+        description: "o desgraça feia quem gozou isso",
+        run: async function (command, rng, message, client, query) {
+            message.reply("https://www.npmjs.com/package/merge-images");
+        }
+    },
     lembretepv: {
         model: "!lembretepv _{o que fazer}_ _{EM ou DAQUI}_ _{x tempo}_",
         description: "te lembra de algo no privado",
