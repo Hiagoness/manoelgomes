@@ -1,0 +1,24 @@
+{
+  "name": "manoelgome",
+  "version": "1.0.0",
+  "description": "BOT for WhatsApp",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Hiagones",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.2.0",
+    "@vladmandic/face-api": "^1.7.7",
+    "axios": "^1.2.2",
+    "canvas": "^2.11.0",
+    "depcheck": "^1.4.3",
+    "dotenv": "^16.0.3",
+    "merge-images": "^2.0.0",
+    "moment": "^2.29.4",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.18.4",
+    "youtube-search": "^1.1.6",
+    "ytdl-core": "^4.11.2"
+  }
+}
