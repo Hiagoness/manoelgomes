@@ -1,3 +1,4 @@
 /node_modules
 /.wwebjs_auth
 /_temp.txt
+/.env
